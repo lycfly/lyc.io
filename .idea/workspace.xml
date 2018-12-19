@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbffeed3-b946-49ee-b4cf-058d4f313c51" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
             </state>
           </provider>
         </entry>
@@ -27,8 +25,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="559" column="18" selection-start-line="559" selection-start-column="18" selection-end-line="559" selection-end-column="18" />
+            <state relative-caret-position="-10101">
+              <caret line="98" column="10" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -37,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="14" />
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -247,7 +245,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="14" />
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -261,14 +259,14 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="559" column="18" selection-start-line="559" selection-start-column="18" selection-end-line="559" selection-end-column="18" />
+        <state relative-caret-position="-10101">
+          <caret line="98" column="10" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="10" />
         </state>
       </provider>
     </entry>
