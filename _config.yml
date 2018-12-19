@@ -75,6 +75,17 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+live2d:
+  enable: true
+  pluginModelPath: assets/
+  model:
+    use: live2d-widget-hijiki
+  display:
+    position: right
+    width: 75 
+    height: 150
+  mobile:
+    show: false  #是否在手机进行显示
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
