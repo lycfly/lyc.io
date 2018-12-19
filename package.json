@@ -29,7 +29,6 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1",
-    "live2d-widget-model-hijiki": "^1.0.5",
     "shelljs": "^0.8.3"
   }
 }
