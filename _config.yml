@@ -87,6 +87,7 @@ live2d:
     position: right
     width: 150
     height: 300
+    bottom: -20
   mobile:
     show: false
 
