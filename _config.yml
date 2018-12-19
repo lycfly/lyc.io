@@ -84,19 +84,19 @@ live2d:
   model:
     use: live2d-widget-model-hijiki
   display:
-    position: right
-    width: 75
+    position: left
+    width: 100
     height: 200
   mobile:
-    show: false
+    show: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-- type: git
-  #repo: https://github.com/lycfly/lycfly.github.io.git
-  repo: git@github.com:lycfly/lycfly.github.io.git
-  branch: master
+#- type: git
+#  #repo: https://github.com/lycfly/lycfly.github.io.git
+#  repo: git@github.com:lycfly/lycfly.github.io.git
+#  branch: master
 - type: git
   repo: git@git.dev.tencent.com:flappylyc/flappylyc.git
   branch: master
