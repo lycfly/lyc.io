@@ -92,8 +92,14 @@ live2d:
     # use: wanko # 博客根目录/live2d_models/ 下的目录名
     # use: ./wives/wanko # 相对于博客根目录的路径
     # use: https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json # 你的自定义 url
-
-
+  display:
+    position: right
+    bottom: -30
+    width: 150
+    height: 300
+  mobile:
+    show: false
+    
 neat_enable: true
 
 neat_html:
