@@ -1,4 +1,4 @@
-var gulp = require('gulp');
+﻿var gulp = require('gulp');
 var minifycss = require('gulp-minify-css');
 var uglify = require('gulp-uglify');
 var htmlmin = require('gulp-htmlmin');
@@ -43,6 +43,6 @@ gulp.task('minify-images', function() {
         .pipe(gulp.dest('./public/images'))
 });
 // 默认任务
-gulp.task('build', [
+gulp.task('default', [
     'minify-html','minify-css','minify-js','minify-images'
 ]);
